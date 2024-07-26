@@ -6,7 +6,8 @@
 - 📫 You can find me on Instagram: "@janyelRodrigues".
 - 😄 my pronouns: JoséSoaresDevs..
 - ⚡ Fun fact: I'm curious to learn JavaScript, C++, CSS, Html, and Java
-- Languages:
+ 
+  
 ![image](https://github.com/user-attachments/assets/04b466a0-e268-419b-a474-855aea80e387)
 <!---
 JoseSoares01/JoseSoares01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
