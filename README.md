@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm José Soares</h1>
 
-<p><img src="https://api.products.aspose.app/slides/slides-io-api-app/api/Common/DownloadFile/86ac3ccd-1745-433c-b35f-e1c6e01f3258?file=result.gif" position= central, width="400px" /></p>
- 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=95F70F&center=true&vCenter=true&width=435&lines=A+padawan+apprentice+in+Portugal" alt="Typing SVG">
+  </a>
+</p> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josesoares01" alt="josesoares01" /></a> </p>
 
 - 🔭 I’m currently working on [Projeto_Servinform](https://github.com/JoseSoares01/Tools.git)
