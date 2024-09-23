@@ -6,11 +6,11 @@
 
 ```rust
 fn main() {
-    let name = 'Rafael Carneiro';
-    let acknowledgements = 'Software Engineer';
+    let name = 'Jose Soares';
+    let acknowledgements = 'Support DevOps';
 
-    let location = 'Fortaleza, Ceara, Brazil';
-    let company = 'O2D - On Demand Development';
+    let location = 'Lisbon, Portugal';
+    let company = 'ServinForm PT';
 }
 
 ```
