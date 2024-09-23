@@ -9,7 +9,7 @@
 </p>
 
 
-<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+<img align="right" width="300" src="https://i.gifer.com/fyDw.gif" />
 
 
 ```rust
@@ -104,3 +104,5 @@ fn main() {
 <a href="https://github.com/JoseSoares01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesoares01&theme=dracula&hide_langs_below=1" />
 </a>
+
+![pv](https://pageview.vercel.app/?github_user=josesoares01)
