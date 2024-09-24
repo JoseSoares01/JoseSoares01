@@ -9,7 +9,7 @@
 </p>
 
 
-<img align="right" width="300" height="200" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif" />
+<img align="right" width="300" height="170" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
 
 ```rust
 fn main() {
