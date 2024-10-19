@@ -14,7 +14,7 @@
 ```rust
 fn main() {
     let name = 'Jose Soares';
-    let acknowledgements = 'Support DevOps';
+    let acknowledgements = 'Data Analyst';
 
     let location = 'Lisbon, Portugal';
     let company = 'ServinForm PT';
