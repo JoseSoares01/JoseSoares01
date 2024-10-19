@@ -13,11 +13,11 @@
 
 ```rust
 fn main() {
-    let name = 'Jose Soares';
-    let acknowledgements = 'Data Analyst';
+    let name = "Jose Soares";
+    let acknowledgements = "Data Analyst";
 
-    let location = 'Lisbon, Portugal';
-    let company = 'ServinForm PT';
+    let location = "Lisbon, Portugal";
+    let company = "ServinForm PT";
 }
 
 ```
