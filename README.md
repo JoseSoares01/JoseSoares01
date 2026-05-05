@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Real--Time%20Systems-00C853?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-<h1 align="center">👋 About Me</h1>
+<h1 align="center">👋 Sobre mim</h1>
 
 <img align="right" width="300" height="170" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" />
 
@@ -30,6 +30,7 @@ fn main() {
         "Data-driven decisions"
     ];
 }
+```
 🔭 Currently building PauseFlow, a real-time workforce and pause management system
 📊 Focused on Power BI, SQL, Python, dashboards and operational analytics
 ⚡ Building tools that connect data, automation and business operations
