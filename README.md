@@ -1,12 +1,12 @@
-<a href="https://github.com/SEUUSERNAME">
+<a href="https://github.com/JoseSoares01">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=14532D&height=200&section=header&text=JOSE+SOARES&fontSize=36&fontColor=A7F3D0&animation=twinkling&fontAlignY=38&desc=Data+Analyst+•+Developer+•+BI+Engineer&descSize=16&descAlignY=58&descColor=DCFCE7"/>
 </a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ADE80&size=22&center=true&vCenter=true&width=900&lines=Hi,+I'm+Jose+Soares+👋;Data+Analyst+%26+Full-Stack+Developer;Building+PauseFlow+for+200%2B+concurrent+users;Real-time+Systems+%7C+Dashboards+%7C+Automation;Power+BI+%7C+Python+%7C+PostgreSQL+%7C+React;Turning+data+into+business+decisions.)](https://github.com/SEUUSERNAME)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4ADE80&size=22&center=true&vCenter=true&width=900&lines=Hi,+I'm+Jose+Soares+👋;Data+Analyst+%26+Full-Stack+Developer;Building+PauseFlow+for+200%2B+concurrent+users;Real-time+Systems+%7C+Dashboards+%7C+Automation;Power+BI+%7C+Python+%7C+PostgreSQL+%7C+React;Turning+data+into+business+decisions.)](https://github.com/JoseSoares01)
 
-<a href="https://www.linkedin.com/in/SEULINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/janyel-rodrigues/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Jose%20Soares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -18,17 +18,17 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img height="220px" src="https://awesome-github-stats.azurewebsites.net/user-stats/SEUUSERNAME?cardType=level-alternate&background=0a0c10&border=22C55E&ring=22C55E&title=22C55E&text=86EFAC&icon=86EFAC" alt="Jose Soares GitHub Stats"/>
+    <img height="220px" src="https://awesome-github-stats.azurewebsites.net/user-stats/JoseSoares01?cardType=level-alternate&background=0a0c10&border=22C55E&ring=22C55E&title=22C55E&text=86EFAC&icon=86EFAC" alt="Jose Soares GitHub Stats"/>
   &nbsp;
-    <img height="350px" src="https://github.com/SEUUSERNAME/SEUUSERNAME/blob/main/devcard.svg" alt="Jose Soares Dev Card"/>
+    <img height="350px" src="https://github.com/JoseSoares01/JoseSoares01/blob/main/devcard.svg" alt="Jose Soares Dev Card"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&bg_color=1a1b27&color=86EFAC&line=22C55E&point=86EFAC&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JoseSoares01&bg_color=1a1b27&color=86EFAC&line=22C55E&point=86EFAC&area=true&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SEUUSERNAME&theme=darkhub&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=JoseSoares01&theme=darkhub&column=6&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"/>
 </div>
 
 ---
