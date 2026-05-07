@@ -20,7 +20,7 @@
 <div align="center">
     <img height="220px" src="https://awesome-github-stats.azurewebsites.net/user-stats/JoseSoares01?cardType=level-alternate&background=0a0c10&border=22C55E&ring=22C55E&title=22C55E&text=86EFAC&icon=86EFAC" alt="Jose Soares GitHub Stats"/>
   &nbsp;
-    <img height="350px" src="https://github.com/JoseSoares01/JoseSoares01/blob/main/devcard.svg" alt="Jose Soares Dev Card"/>
+    <img height="350px" src="https://github.com/JoseSoares01/JoseSoares01/blob/main/jose_devcard.svg" alt="Jose Soares Dev Card"/>
 </div>
 
 <div align="center">
