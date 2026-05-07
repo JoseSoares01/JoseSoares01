@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Jose%20Soares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&color=22C55E&style=for-the-badge&label=Profile+Views&base=56000&abbreviated=true"/>
+<img src="https://komarev.com/ghpvc/?username=JoseSoares01&color=22C55E&style=for-the-badge&label=Profile+Views&base=56000&abbreviated=true"/>
 
 </div>
 
